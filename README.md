@@ -4,7 +4,7 @@
 // Just trying to create a repository
 
 void printing(void) {
-  printf("Hello World ~");
+  printf("Hello World ~\n");
 }
 
 int main(void) {
